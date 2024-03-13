@@ -3,3 +3,5 @@ This is a calculator to create the Harmonic Box X binaural beats as shown in htt
 Other frequencies may also be used like solfeggio frequencies see https://youtu.be/y3rTiDvJBwM?feature=shared
 
 More info at https://www.fractalfield.com/
+
+Other frequencies at https://brain-beats.in/
