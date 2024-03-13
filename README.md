@@ -5,3 +5,5 @@ Other frequencies may also be used like solfeggio frequencies see https://youtu.
 More info at https://www.fractalfield.com/
 
 Other frequencies at https://brain-beats.in/
+
+![img](https://github.com/NQevxvEtg/harmonic-box-x/blob/main/hbx.png)
